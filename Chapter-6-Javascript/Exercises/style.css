@@ -1,0 +1,17 @@
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+input, button {
+	padding: 5px;
+	margin: 5px;
+}
+
+button:hover {
+	background-color: #ccc;
+}
+
+button:focus {
+	border: 2px solid #666;
+}
